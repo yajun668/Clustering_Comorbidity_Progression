@@ -1,5 +1,5 @@
 # Clustering_Comorbidity_Progression
-The code accompanies the paper "Clustering temporal disease networks to assist clinical decision support systems in visual analytics of comorbidity progression". If you wish to use or cite this code, please cite the paper: 
+The code accompanies the paper "[Clustering temporal disease networks to assist clinical decision support systems in visual analytics of comorbidity progression](https://www.sciencedirect.com/science/article/abs/pii/S0167923621000932)". If you wish to use or cite this code, please cite the paper: 
 
 	@article{lu2021clustering,
   	title={Clustering temporal disease networks to assist clinical decision support systems in visual analytics of comorbidity progression},
@@ -22,7 +22,7 @@ appreciated.
 
 MIT License
 
-Copyright (c) 2022 Yajun Lu, Suhao Chen, and Zhuqi Miao.
+Copyright (c) 2022 Yajun Lu, [Suhao Chen](https://www.sdsmt.edu/Directories/Personnel/Chen,-Suhao/), and [Zhuqi Miao](https://webapps.newpaltz.edu/directory/profile/zhuqimiao).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
